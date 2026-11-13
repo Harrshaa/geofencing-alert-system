@@ -6,9 +6,9 @@ A full-stack system for defining geofences, tracking vehicles, and sending real-
 
 | | |
 | --- | --- |
-| Frontend (deployed) | _TODO: add URL_ |
-| Backend API (deployed) | _TODO: add URL_ |
-| Backend image (Docker Hub) | _TODO: add image name_ |
+| Frontend (deployed) | https://geofencing-alert-system-topaz.vercel.app |
+| Backend API (deployed) | https://geofence-alerts-api.onrender.com |
+| Backend image (Docker Hub) | [`harrshaa/geofence-alerts-backend:latest`](https://hub.docker.com/r/harrshaa/geofence-alerts-backend) |
 | Video walkthrough | _TODO: add link_ |
 
 Setup, API examples and the architecture overview are in [SETUP.md](SETUP.md).
